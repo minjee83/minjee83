@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=120&text=HELLO🙌&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=120&text=HELLO🙌&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 </br>
 </br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요, 개발자 지망생 ✨구민지✨입니다.</h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요, ✨구민지✨입니다.</h2>
 </br>
 </br>
 </br>
