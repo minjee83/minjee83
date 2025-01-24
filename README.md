@@ -52,6 +52,12 @@
             <td>JDBC, MYSQL, logstash, elasticsearch, kibana</td>
             <td><a href="https://github.com/minsung159357/weather" target="_blank">GitHub</a></td>
         </tr>
+        <tr>
+            <td>💳 Woori Card Data Analyzing: 광고 노출 최적화 프로젝트</td>
+            <td>Install ELK in ubuntu and practice ELK using Woori card data/모바일 채널의 광고 노출 빈도를 효율적으로 조절하여 고객 소비 증대</td>
+            <td>logstash, elasticsearch, kibana</td>
+            <td><a href="https://github.com/letsgojh0810/wooridata">GitHub</a></td>
+        </tr>
     </tbody>
 </table>
 
