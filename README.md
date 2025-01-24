@@ -1,9 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=HELLO🙌&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=******&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 </br>
 </br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">안녕하세요, ✨구민지✨입니다.</h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨introduce✨</h2>
+
+
 </br>
 </br>
 </br>
@@ -53,8 +55,8 @@
             <td><a href="https://github.com/minsung159357/weather" target="_blank">GitHub</a></td>
         </tr>
         <tr>
-            <td>💳 Woori Card Data Analyzing: 광고 노출 최적화 프로젝트</td>
-            <td>Install ELK in ubuntu and practice ELK using Woori card data/모바일 채널의 광고 노출 빈도를 효율적으로 조절하여 고객 소비 증대</td>
+            <td>💳 실제 Card Data Analyzing: 광고 노출 최적화 프로젝트</td>
+            <td>Install ELK in ubuntu and practice ELK using Woori card data</td>
             <td>logstash, elasticsearch, kibana</td>
             <td><a href="https://github.com/letsgojh0810/wooridata">GitHub</a></td>
         </tr>
