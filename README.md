@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=******&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=minjee&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 </br>
 </br>
@@ -82,3 +82,11 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=minjee83&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minjee83&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/minjee83"
+  width="600"
+  height="300"
+/>
+</a>
