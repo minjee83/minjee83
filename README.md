@@ -106,11 +106,11 @@
 </br>
 </br>
 </br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
+<!-- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjee83&layout=compact&theme=radical" alt="Top Languages">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=minjee83&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=minjee83&show_icons=true&theme=radical" alt="GitHub Stats"> -->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minjee83&utm_content=farm">
 <img
@@ -120,7 +120,3 @@
 />
 </div>
 </a>
-
- <a href="https://github.com/anuraghazra/convoychat">
-    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjee83&layout=donut" />
-  </a>
