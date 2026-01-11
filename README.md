@@ -121,4 +121,4 @@
 </div>
 </a>
 
-[![Minjee's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjee83)](https://github.com/minjee83/github-readme-stats)
+[![Minjee's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjee83)](https://github.com/anuraghazra/github-readme-stats)
